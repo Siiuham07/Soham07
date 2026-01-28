@@ -13,3 +13,15 @@ Each file translates design intent into execution-ready specifications, ensuring
 * Ensure quality control and design consistency during execution
 
 ---
+
+# 🗂️ What These Documents Include 
+* Flooring types (raised flooring, carpets, wooden flooring, ramps)
+* Wall structures and finishes (wooden laminate, MDF cutouts, vinyl prints, spray paint finishes)
+* Branding elements (backlit prints, acrylic logos, LED walls)
+* Lighting specifications (arm lights, COB lights, concealed lighting, hanging lights)
+* Furniture and fixtures (reception counters, discussion tables, chairs, sofas, displays)
+* Decorative and functional elements (plants, glass panels, storage areas, TV's)
+
+---
+
+# 📁 Files Included
